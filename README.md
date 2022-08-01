@@ -6,11 +6,11 @@ This repository contains code of Lane Departure Warning system for Raspberry Pi 
 ## How it works
 * ![image0](./readme_files/ldw_dev_0.png)
     * origianl image
-*![image1](./readme_files/ldw_dev_1.png)
+* ![image1](./readme_files/ldw_dev_1.png)
     * Canny edge detection
-*![image2](./readme_files/ldw_dev_2.png)
+* ![image2](./readme_files/ldw_dev_2.png)
     * Region of interest
-*![image3](./readme_files/ldw_dev_3.png)
+* ![image3](./readme_files/ldw_dev_3.png)
     * Detect road lines
 
 ## Requirements
@@ -23,6 +23,7 @@ This repository contains code of Lane Departure Warning system for Raspberry Pi 
 * Hardware
     * Raspberry Pi 4
     * Raspberry Pi Camera Module v1
+    * Raspberry Pi Sense HAT (optional)
 
 ## Compile
 ```
@@ -53,7 +54,7 @@ adas visual
 To visualize image processing techniques used to detect traffice lines.
 
 ## Result
-![LDWS on RPi](https://youtu.be/p80HAU8_oMg)
+[![LDWS on RPi](./readme_files/yt_thumb.png)](https://youtu.be/p80HAU8_oMg)s
 
 ## Acknowledgements
 
