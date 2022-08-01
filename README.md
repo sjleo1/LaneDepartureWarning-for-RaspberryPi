@@ -4,13 +4,13 @@
 This repository contains code of Lane Departure Warning system for Raspberry Pi with monocular camera.
 
 ## How it works
-<img src="./readme_files/ldw_dev_0.png", width="350" />
+![image0](./readme_files/ldw_dev_0.png)
 origianl image
-<img src="./readme_files/ldw_dev_1.png", width="350" />
+![image0](./readme_files/ldw_dev_1.png)
 Canny edge detection
-<img src="./readme_files/ldw_dev_2.png", width="350" />
+![image0](./readme_files/ldw_dev_2.png)
 Region of interest
-<img src="./readme_files/ldw_dev_3.png", width="350" />
+![image0](./readme_files/ldw_dev_3.png)
 Detect road lines
 
 ## Requirements
